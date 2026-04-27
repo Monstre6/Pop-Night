@@ -1,0 +1,20 @@
+{
+  "name": "Pop Night Streaming +",
+  "author": "Pop Night",
+  "parental": "true",
+  "image": "https://raw.githubusercontent.com/Monstre6/Pop-Night/main/logo.jpg",
+  "url": "https://raw.githubusercontent.com/Monstre6/Pop-Night/main/index.json",
+  "info": "TV Live, Films 4K & Séries",
+  "groups": [
+    {
+      "name": "🎬 Films",
+      "image": "https://raw.githubusercontent.com/Monstre6/Pop-Night/main/logo.jpg",
+      "url": "https://raw.githubusercontent.com/Monstre6/Pop-Night/main/PopNight_Films.m3u"
+    },
+    {
+      "name": "📺 TV Live",
+      "image": "https://raw.githubusercontent.com/Monstre6/Pop-Night/main/logo.jpg",
+      "url": "https://raw.githubusercontent.com/Monstre6/Pop-Night/main/PopNight_TV.m3u"
+    }
+  ]
+}

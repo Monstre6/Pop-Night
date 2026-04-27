@@ -1,0 +1,223 @@
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.xml"
+
+## ========================================
+## 🇫🇷 TNT FRANÇAISES
+## ========================================
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/tf1-chaine-41.svg" group-title="🇫🇷 TNT Françaises",TF1
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videotf1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/france-2-chaine-54.svg" group-title="🇫🇷 TNT Françaises",France 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/france-3-chaine-34.svg" group-title="🇫🇷 TNT Françaises",France 3
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/france-4-chaine-82.svg" group-title="🇫🇷 TNT Françaises",France 4
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/france-5-chaine-98.svg" group-title="🇫🇷 TNT Françaises",France 5
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france5.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/m6-chaine-21.svg" group-title="🇫🇷 TNT Françaises",M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/arte-chaine-70.svg" group-title="🇫🇷 TNT Françaises",Arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/la-chaine-parlementaire-chaine-57.svg" group-title="🇫🇷 TNT Françaises",LCP
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/w9-chaine-14.svg" group-title="🇫🇷 TNT Françaises",W9
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videow9.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/tmc-chaine-12.svg" group-title="🇫🇷 TNT Françaises",TMC
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotmc.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/tfx-chaine-96.svg" group-title="🇫🇷 TNT Françaises",TFX
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotfx.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/gulli-chaine-47.svg" group-title="🇫🇷 TNT Françaises",Gulli
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/bfm-tv-chaine-87.svg" group-title="🇫🇷 TNT Françaises",BFMTV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/cnews-chaine-66.svg" group-title="🇫🇷 TNT Françaises",CNews
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/lci-chaine-25.svg" group-title="🇫🇷 TNT Françaises",LCI
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/franceinfo-chaine-73.svg" group-title="🇫🇷 TNT Françaises",France Info
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/tf1-series-films-chaine-95.svg" group-title="🇫🇷 TNT Françaises",TF1 Séries Films
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videotf1fs.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/l-equipe-chaine-79.svg" group-title="🇫🇷 TNT Françaises",L'Équipe
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/6ter-chaine-22.svg" group-title="🇫🇷 TNT Françaises",6ter
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/rmc-story-chaine-94.svg" group-title="🇫🇷 TNT Françaises",RMC Story
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/rmc-decouverte-chaine-72.svg" group-title="🇫🇷 TNT Françaises",RMC Découverte
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/rmc-life-chaine-85.svg" group-title="🇫🇷 TNT Françaises",RMC Life
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/canal-plus-chaine-4.svg" group-title="🇫🇷 TNT Françaises",Canal+ Clair
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/canalplusclair-hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Cherie_25_logo.png" group-title="🇫🇷 TNT Françaises",Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRJ12_logo.svg/200px-NRJ12_logo.svg.png" group-title="🇫🇷 TNT Françaises",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038370/nrj12/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/tv5monde-chaine-38.svg" group-title="🇫🇷 TNT Françaises",TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/France_24_logo.svg/200px-France_24_logo.svg.png" group-title="🇫🇷 TNT Françaises",France 24 FR
+https://france24hls-i.akamaihd.net/hls/live/221192/France24_FR_HI/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Euronews_2022.svg/200px-Euronews_2022.svg.png" group-title="🇫🇷 TNT Françaises",Euronews FR
+https://euronews-fr.fast.sinclairstoryline.com/hls/live/2101226/euronews_fr_sinclairssl/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/t18-chaine-99.svg" group-title="🇫🇷 TNT Françaises",T18
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/planete-plus-chaine-53.svg" group-title="🇫🇷 TNT Françaises",Planète+
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/cstar-chaine-67.svg" group-title="🇫🇷 TNT Françaises",CStar
+https://geo.dailymotion.com/player.html?video=x5gv5v0
+
+## ========================================
+## ↔️ PLAYLIST IPTV
+## ========================================
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/l-equipe-chaine-79.svg" group-title="↔️ Playlist IPTV",L'Équipe Live 1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/l-equipe-chaine-79.svg" group-title="↔️ Playlist IPTV",L'Équipe Live 2
+https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/l-equipe-chaine-79.svg" group-title="↔️ Playlist IPTV",L'Équipe Live Foot
+https://d2l55nvfkhk4sg.cloudfront.net/1/media.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/bfm-tv-chaine-87.svg" group-title="↔️ Playlist IPTV",RMC Grands Reportages
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/bfm-tv-chaine-87.svg" group-title="↔️ Playlist IPTV",RMC Talk Info
+https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/bfm-tv-chaine-87.svg" group-title="↔️ Playlist IPTV",Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/action-chaine-100.svg" group-title="↔️ Playlist IPTV",Action
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Comedies%2B_logo.svg/200px-Comedies%2B_logo.svg.png" group-title="↔️ Playlist IPTV",Comédies
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Crime_District_logo_2016.png/200px-Crime_District_logo_2016.png" group-title="↔️ Playlist IPTV",Crime
+https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6c/Drames_logo.png" group-title="↔️ Playlist IPTV",Drames
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Scream_logo.svg/200px-Scream_logo.svg.png" group-title="↔️ Playlist IPTV",Scream In
+https://amg00711-zylo-amg00711c6-plex-us-935.playouts.now.amagi.tv/zylo-Screamin-lg/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/france-5-chaine-98.svg" group-title="↔️ Playlist IPTV",Documentaires France TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/16/France_5_2021.svg/200px-France_5_2021.svg.png" group-title="↔️ Playlist IPTV",Échappées Belles
+https://amg02232-botravail-amg02232c1-samsung-fr-308.playouts.now.amagi.tv/playlist/amg02232-botravail-echappeesbelles-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Emotion_logo.png/200px-Emotion_logo.png" group-title="↔️ Playlist IPTV",Émotion
+https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Epicurious-Logo.png/200px-Epicurious-Logo.png" group-title="↔️ Playlist IPTV",Épicurieux
+https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Anime_Nana_logo.svg/200px-Anime_Nana_logo.svg.png" group-title="↔️ Playlist IPTV",JapAnim TV
+https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_TMC_Monaco.png/200px-Logo_TMC_Monaco.png" group-title="↔️ Playlist IPTV",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Novelas_TV_logo.svg/200px-Novelas_TV_logo.svg.png" group-title="↔️ Playlist IPTV",Télé Novela
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/mgg-tv-chaine-110.svg" group-title="↔️ Playlist IPTV",MGG E-Sport
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TNTV_logo.svg/200px-TNTV_logo.svg.png" group-title="↔️ Playlist IPTV",Tahiti TV
+https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/960x540_2340800/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/20-minutes-tv-ile-de-france-chaine-108.svg" group-title="↔️ Playlist IPTV",20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+
+## ========================================
+## 🌎 TV ACTUALITÉS
+## ========================================
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/bfm-tv-chaine-87.svg" group-title="🌎 TV Actualités",BFMTV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/BFM_Business_logo_2012.svg/200px-BFM_Business_logo_2012.svg.png" group-title="🌎 TV Actualités",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/bfm-tv-chaine-87.svg" group-title="🌎 TV Actualités",BFM 2
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Euronews_2022.svg/200px-Euronews_2022.svg.png" group-title="🌎 TV Actualités",Euronews FR
+https://euronews-fr.fast.sinclairstoryline.com/hls/live/2101226/euronews_fr_sinclairssl/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/tv5monde-chaine-38.svg" group-title="🌎 TV Actualités",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/cnews-chaine-66.svg" group-title="🌎 TV Actualités",CNews
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/lci-chaine-25.svg" group-title="🌎 TV Actualités",LCI
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/franceinfo-chaine-73.svg" group-title="🌎 TV Actualités",France Info
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/France_24_logo.svg/200px-France_24_logo.svg.png" group-title="🌎 TV Actualités",France 24 FR
+https://france24hls-i.akamaihd.net/hls/live/221192/France24_FR_HI/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/France_24_logo.svg/200px-France_24_logo.svg.png" group-title="🌎 TV Actualités",France 24 EN
+https://france24hls-i.akamaihd.net/hls/live/221192/France24_EN_HI/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/France_24_logo.svg/200px-France_24_logo.svg.png" group-title="🌎 TV Actualités",France 24 ES
+https://france24hls-i.akamaihd.net/hls/live/221192/France24_ES_HI/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/France_24_logo.svg/200px-France_24_logo.svg.png" group-title="🌎 TV Actualités",France 24 AR
+https://france24hls-i.akamaihd.net/hls/live/221192/France24_AR_HI/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/la-chaine-parlementaire-chaine-57.svg" group-title="🌎 TV Actualités",Public Sénat
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2b/LN24_Logo.png/200px-LN24_Logo.png" group-title="🌎 TV Actualités",LN24 BE
+https://lnlive.vrt.be/cdn/ln24/lnlive/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Le_M%C3%A9dia_logo.png/200px-Le_M%C3%A9dia_logo.png" group-title="🌎 TV Actualités",Le Média TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Africa24-logo.svg/200px-Africa24-logo.svg.png" group-title="🌎 TV Actualités",Africa 24
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Euronews_2022.svg/200px-Euronews_2022.svg.png" group-title="🌎 TV Actualités",Africa News FR
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/M%C3%A9di1TV_logo.svg/200px-M%C3%A9di1TV_logo.svg.png" group-title="🌎 TV Actualités",Medi TV Afrique
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/20-minutes-tv-ile-de-france-chaine-108.svg" group-title="🌎 TV Actualités",20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/I24news_Logo.svg/200px-I24news_Logo.svg.png" group-title="🌎 TV Actualités",i24 News FR
+https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImwudGkiOiI2Mzg2NzkwNTEzMTEyIn0.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CGTN_Logo.svg/200px-CGTN_Logo.svg.png" group-title="🌎 TV Actualités",CGTN Français
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/bfm-tv-chaine-87.svg" group-title="🌎 TV Actualités",RMC Talk Info
+https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ICI_RDI_2019.svg/200px-ICI_RDI_2019.svg.png" group-title="🌎 TV Actualités",ICI RDI (Canada)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+## ========================================
+## 🏀 TV SPORT
+## ========================================
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/l-equipe-chaine-79.svg" group-title="🏀 TV Sport",L'Équipe 21
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/l-equipe-chaine-79.svg" group-title="🏀 TV Sport",L'Équipe Live 1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/l-equipe-chaine-79.svg" group-title="🏀 TV Sport",L'Équipe Live 2
+https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/l-equipe-chaine-79.svg" group-title="🏀 TV Sport",L'Équipe Live Foot
+https://d2l55nvfkhk4sg.cloudfront.net/1/media.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/sport-en-france-chaine-102.svg" group-title="🏀 TV Sport",France TV Sport
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/rmc-story-chaine-94.svg" group-title="🏀 TV Sport",After Foot
+https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Trace_Sport_Stars_logo.svg/200px-Trace_Sport_Stars_logo.svg.png" group-title="🏀 TV Sport",Trace Sport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Strongman_Champions_League_logo.png/200px-Strongman_Champions_League_logo.png" group-title="🏀 TV Sport",Strongman TV
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/eurosport-1-chaine-32.svg" group-title="🏀 TV Sport",Eurosport 1
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/eurosport-2-chaine-33.svg" group-title="🏀 TV Sport",Eurosport 2
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/eurosport-1-chaine-32.svg" group-title="🏀 TV Sport",Eurosport DE
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/bein-sports-1-chaine-30.svg" group-title="🏀 TV Sport",BeIn Sport Xtra ES
+https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/canal-plus-sport-chaine-7.svg" group-title="🏀 TV Sport",Canal Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/bein-sports-3-chaine-74.svg" group-title="🏀 TV Sport",BeIn Sport 3
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/equidia-chaine-39.svg" group-title="🏀 TV Sport",Equidia
+https://equidia-live2-p28-cdn.hexaglobe.net/12305209dde9d9d181079fcf4193a741/69de6af8/equidia/equidia-website-web-1/eqdlivepri_fre.smil/slot09_audio_french.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Infosport%2B_logo.svg/200px-Infosport%2B_logo.svg.png" group-title="🏀 TV Sport",Infosport+
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Red_Bull_logo.svg/200px-Red_Bull_logo.svg.png" group-title="🏀 TV Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Africa24-logo.svg/200px-Africa24-logo.svg.png" group-title="🏀 TV Sport",Africa 24 Sport
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/photos/mgg-tv-chaine-110.svg" group-title="🏀 TV Sport",MGG E-Sport
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+
+## ========================================
+## 🚘 AUTO & MOTO
+## ========================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Drive_TV_logo.png/200px-Drive_TV_logo.png" group-title="🚘 Auto & Moto",Drive TV
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/MotorVision_logo.svg/200px-MotorVision_logo.svg.png" group-title="🚘 Auto & Moto",Motorvision TV FR
+https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/MotorVision_logo.svg/200px-MotorVision_logo.svg.png" group-title="🚘 Auto & Moto",Motorvision TV
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/MotorVision_logo.svg/200px-MotorVision_logo.svg.png" group-title="🚘 Auto & Moto",Rakuten Motorvision
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Canal_Motor_TV_logo.png/200px-Canal_Motor_TV_logo.png" group-title="🚘 Auto & Moto",Canal Motor TV
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Garage_TV_logo.png/200px-Garage_TV_logo.png" group-title="🚘 Auto & Moto",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/MotorVision_logo.svg/200px-MotorVision_logo.svg.png" group-title="🚘 Auto & Moto",Go Channel TV
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
