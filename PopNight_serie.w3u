@@ -1,5 +1,5 @@
 {
-  "name": "PopNight Séries",
+  "name": "Séries",
   "info": "Liste PopNight avec séries et saisons",
   "groups": [
     {
@@ -469,6 +469,158 @@
               "name": "Épisode 16",
               "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/3xnWaLQjelJDDF7LT1WBo6f4BRe.jpg",
               "url": "https://uqload.is/embed-s49s49a6t0sp.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Le Continental : John Wick",
+      "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/rM43GovLNlRhaZkWYLfnZKKasnf.jpg",
+      "stations": [
+        {
+          "name": "Épisode 1",
+          "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/rM43GovLNlRhaZkWYLfnZKKasnf.jpg",
+          "url": "https://uqload.vc/embed-d5u05apv5inp.html"
+        },
+        {
+          "name": "Épisode 2",
+          "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/rM43GovLNlRhaZkWYLfnZKKasnf.jpg",
+          "url": "https://uqload.vc/embed-a98jice5jdsn.html"
+        },
+        {
+          "name": "Épisode 3",
+          "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/rM43GovLNlRhaZkWYLfnZKKasnf.jpg",
+          "url": "https://uqload.vc/embed-ld3dwmj28jnw.html"
+        }
+      ]
+    },
+    {
+      "name": "Squid Game",
+      "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+      "groups": [
+        {
+          "name": "Saison 1",
+          "stations": [
+            {
+              "name": "Épisode 1",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-ziwd9chggu48.html"
+            },
+            {
+              "name": "Épisode 2",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-5n3q3t4b26yj.html"
+            },
+            {
+              "name": "Épisode 3",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-qxjfbr4hs3zp.html"
+            },
+            {
+              "name": "Épisode 4",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-mg40ys1d86ys.html"
+            },
+            {
+              "name": "Épisode 5",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-cnh68jlphbrr.html"
+            },
+            {
+              "name": "Épisode 6",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-310zaa6v3jj8.html"
+            },
+            {
+              "name": "Épisode 7",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-vvi6gee5qi69.html"
+            },
+            {
+              "name": "Épisode 8",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-4trn8yzd8fuo.html"
+            },
+            {
+              "name": "Épisode 9",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-xqjgtojddnqw.html"
+            }
+          ]
+        },
+        {
+          "name": "Saison 2",
+          "stations": [
+            {
+              "name": "Épisode 1",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-2wennuya25qn.html"
+            },
+            {
+              "name": "Épisode 2",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-viy677pxzaj0.html"
+            },
+            {
+              "name": "Épisode 3",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-m5fpfk4ho43w.html"
+            },
+            {
+              "name": "Épisode 4",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-4s66n2js7ii0.html"
+            },
+            {
+              "name": "Épisode 5",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-qn6uh167ygib.html"
+            },
+            {
+              "name": "Épisode 6",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-iy5id2yk7fcg.html"
+            },
+            {
+              "name": "Épisode 7",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-10yh7ggmghv0.html"
+            }
+          ]
+        },
+        {
+          "name": "Saison 3",
+          "stations": [
+            {
+              "name": "Épisode 1",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-26fpm0n6d0po.html"
+            },
+            {
+              "name": "Épisode 2",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-dzp7it2ie8ba.html"
+            },
+            {
+              "name": "Épisode 3",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-qsh371c8385g.html"
+            },
+            {
+              "name": "Épisode 4",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-iibnxfl2hvfi.html"
+            },
+            {
+              "name": "Épisode 5",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-02g42rsbqd2z.html"
+            },
+            {
+              "name": "Épisode 6",
+              "image": "https://image.tmdb.org/t/p/original/aS4HayfYtI4wXU4ErwWb8kqbfnq.jpg",
+              "url": "https://uqload.vc/embed-qt6wx34kpuhc.html"
             }
           ]
         }
