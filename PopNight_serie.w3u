@@ -4593,7 +4593,6 @@
     {
       "name": "Among Us",
       "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg",
-      "autoplay": true,
       "stations": [
         {
           "name": "Épisode 1",
